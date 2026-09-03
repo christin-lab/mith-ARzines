@@ -13,5 +13,5 @@
 
 ### Github pages/hosting
 * put 3D models in /assets folder
-* use URLs from /assets folder in code, to tell Ar.js where to find each 3D model file
+* use raw URLs from /assets folder in code, to tell Ar.js where to find each 3D model file
 * make Github pages site public - this is the URL people will load in their devices to view the AR
